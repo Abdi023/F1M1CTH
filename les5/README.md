@@ -14,7 +14,8 @@
 <li>Scheut olijfolie</li>
 <li>Zout en peper</li>
 =======
-![perfect-gebakken-ei-916x458](https://user-images.githubusercontent.com/90894981/136002484-5cb54532-8f53-4af0-b95e-8d6133a2656a.jpg)
+Format: ![foto](wkenwf.jpg)
+
 
 
 Ingrediënten.
