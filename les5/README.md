@@ -2,9 +2,10 @@
 
 
 
+![wkenwf](https://user-images.githubusercontent.com/90894981/136007660-e2f36e3b-4d30-4797-9264-68357606cd78.jpg)
 
-<<<<<<< HEAD
-(perfect-gebakken-ei-916x458.jpg)
+
+
 
 <h2>Ingrediënten</h2>
 <li>1 ui</li>
@@ -13,8 +14,6 @@
 <li>6 eieren</li>
 <li>Scheut olijfolie</li>
 <li>Zout en peper</li>
-=======
-Format: ![foto](wkenwf.jpg)
 
 
 
@@ -25,4 +24,3 @@ Halve theelepel gedroogde tijm.
 6 eieren.
 Scheut olijfolie.
 Zout en peper.
->>>>>>> 5c60d676b6c3c414c219a413cd99972b6d2ff7ba
