@@ -16,3 +16,11 @@
 <li>Zout en peper</li>
 
 
+<h3> Bereiding</h3>
+<li>1. 1 ui</li>
+<li>1. li250 gram tomaten</li>
+<li>2. Halve theelepel gedroogde tijm</li>
+<li>3. 6 eieren</li>
+<li>4. Scheut olijfolie</li>
+<li>5. Zout en peper</li>
+
