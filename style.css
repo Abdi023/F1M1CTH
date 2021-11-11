@@ -1,0 +1,40 @@
+body {
+    background-image:  url(bird.png);
+        
+}
+
+h1{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 9em;
+    font-family: sans-serif;
+    text-shadow: 10px 10px 0px #002c3e,
+                 15px 15px 0px #e601c0,
+                 20px 20px 0px #e9019a,
+                 25px 25px 0px #f40468,
+                 45px 45px 0px #f79098;
+    color: transparent;
+    cursor: pointer;
+    -webkit-text-stroke: 4px #d6f4f4;
+    transition: all 0.5s;
+}
+h1:hover {
+    text-shadow: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

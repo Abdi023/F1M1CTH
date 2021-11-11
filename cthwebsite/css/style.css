@@ -1,3 +1,20 @@
 body {
     background-image: url(100x100.gif);
 }
+
+
+
+h1 {
+    color: mediumseagreen;
+}
+
+
+span.wle {
+    color: blue;
+}
+
+
+
+div.class {
+    color: green;
+}
